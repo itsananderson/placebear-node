@@ -21,7 +21,7 @@ npm install --save placebear
 Usage
 -----
 
-Placekitten is pretty easy to use.
+Placebear is pretty easy to use.
 
 ```
 placebear [-d path/to/download/folder] width[/height] [...]
