@@ -12,12 +12,6 @@ Installing is quite simple
 npm install -g placebear
 ```
 
-If you want to reuse the file fetching logic, you can also install placebear as a dependency of your own module
-
-```
-npm install --save placebear
-```
-
 Usage
 -----
 
