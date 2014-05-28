@@ -1,6 +1,6 @@
 {
   "name": "placebear",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Downloads placebear.com images to your machine",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/itsananderson/placebear-node",
   "dependencies": {
     "commander": "^2.2.0",
-    "placekitten": "^0.2.0"
+    "placebase": "^0.1.1"
   }
 }
