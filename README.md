@@ -32,7 +32,7 @@ Here are some concrete usage examples
 ```bash
 placebear 200/100 # Download a 200x100 image
 placebear 100/300 200 # Download a 100x300 image and a 200x200 image
-placebear -d bears 800/600 # Download a 800x600 image into the kittens folder
+placebear -d bears 800/600 # Download a 800x600 image into the bears folder
 ```
 
 In order for the -d (a.k.a. --directory) flag to work, the folder must already exist.
