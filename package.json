@@ -1,0 +1,29 @@
+{
+  "name": "placebear",
+  "version": "0.0.0",
+  "description": "Downloads placebear.com images to your machine",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "placebear": "./bin/placebear-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsananderson/placebear-node.git"
+  },
+  "keywords": [
+    "placebear",
+    "cli"
+  ],
+  "author": "Will Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsananderson/placebear-node/issues"
+  },
+  "homepage": "https://github.com/itsananderson/placebear-node",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "placekitten": "^0.2.0"
+  }
+}
